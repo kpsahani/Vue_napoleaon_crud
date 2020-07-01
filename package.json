@@ -1,0 +1,42 @@
+{
+  "name": "vue-firebase-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-scss": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.22",
+    "core-js": "^2.6.5",
+    "firebase": "^6.1.0",
+    "install": "^0.12.2",
+    "jquery": "^3.4.1",
+    "mdbvue": "^5.4.1",
+    "mdvue": "0.0.1",
+    "npm": "^6.13.4",
+    "sweetalert2": "^8.12.2",
+    "vue": "^2.6.10",
+    "vue-authenticate": "^1.4.1",
+    "vue-axios": "^2.1.4",
+    "vue-firestore": "^0.3.21",
+    "vue-router": "^3.0.3",
+    "vuefire": "^2.0.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
